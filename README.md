@@ -20,7 +20,7 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/meetpatell07/Inventory-Management-System.git
 
-### Technologies:
+## Technologies:
 
 - Spring Boot – A framework used to create microservices and manage backend logic.
 - MongoDB – A NoSQL database used for storing product data.
