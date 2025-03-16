@@ -12,14 +12,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
-
-Follow these steps to set up the project locally:
-
-### 1. Clone the repository:
-```bash
-git clone https://github.com/meetpatell07/Inventory-Management-System.git
-
 ## Technologies:
 
 - Spring Boot – A framework used to create microservices and manage backend logic.
@@ -29,3 +21,13 @@ git clone https://github.com/meetpatell07/Inventory-Management-System.git
 - API Gateway – Handles routing of requests to the appropriate microservice.
 - Docker – Containerization platform used for creating, deploying, and running applications in isolated environments.
 - Java – Programming language used for building the backend application. 
+
+## Installation
+
+Follow these steps to set up the project locally:
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/meetpatell07/Inventory-Management-System.git
+
+
